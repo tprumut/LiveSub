@@ -1,0 +1,4 @@
+<resources>
+    <!-- Dark theme forced when system is in dark mode -->
+    <style name="AppTheme" parent="AppTheme.Dark" />
+</resources>

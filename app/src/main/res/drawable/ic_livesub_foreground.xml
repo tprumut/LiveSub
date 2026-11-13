@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Waveform bars in white - centered in 72x72 safe zone (66% of 108) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,40h6v28h-6z M36,32h6v44h-6z M48,24h6v60h-6z M60,32h6v44h-6z M72,40h6v28h-6z" />
+    <!-- Subtitle line at bottom -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,80h72v6h-72z" />
+    <path
+        android:fillColor="#8FD8D0"
+        android:pathData="M18,88h48v6h-48z" />
+</vector>

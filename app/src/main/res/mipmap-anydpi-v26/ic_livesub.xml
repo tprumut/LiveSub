@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background layer: Teal brand color -->
+    <background android:drawable="@drawable/ic_livesub_background" />
+    <!-- Foreground layer: White waveform icon -->
+    <foreground android:drawable="@drawable/ic_livesub_foreground" />
+    <!-- Monochrome for themed icons (Android 13+) -->
+    <monochrome android:drawable="@drawable/ic_livesub_monochrome" />
+</adaptive-icon>

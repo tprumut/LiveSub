@@ -1,0 +1,21 @@
+<resources>
+    <!-- Light theme (default) -->
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#16A394</item>
+        <item name="android:statusBarColor">#F8FDFD</item>
+        <item name="android:navigationBarColor">#F8FDFD</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <!-- Dark theme (auto-applied when system is in dark mode) -->
+    <style name="AppTheme.Dark" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#16A394</item>
+        <item name="android:statusBarColor">#0B1318</item>
+        <item name="android:navigationBarColor">#0B1318</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

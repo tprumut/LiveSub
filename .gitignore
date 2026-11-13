@@ -1,0 +1,19 @@
+.gradle/
+.cxx/
+.externalNativeBuild/
+local.properties
+.idea/
+*.iml
+build/
+**/build/
+
+# Eski geliştirme APK'ları yalnızca yerelde tutulur; repoda güncel sürüm yayınlanır.
+artifacts/LiveSub-phase1-debug.apk
+artifacts/LiveSub-phase2-debug.apk
+artifacts/LiveSub-phase2-debug.apk.sha256
+artifacts/LiveSub-phase2-diagnostic-debug.apk
+artifacts/LiveSub-phase2-diagnostic-debug.apk.sha256
+artifacts/LiveSub-phase2-optimized-debug.apk
+artifacts/LiveSub-phase2-optimized-debug.apk.sha256
+artifacts/LiveSub-phase3-debug.apk
+artifacts/LiveSub-phase3-debug.apk.sha256
